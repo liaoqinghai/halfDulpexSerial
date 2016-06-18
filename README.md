@@ -3,9 +3,9 @@ This project can help make a stm32f10x board as an alternative to USB2Dynamixel 
 
 ## Background
 Dynamixel AX-12/18 servos are good acutator for robots. The communication :
->Command Signal : Digital Packet
-Protocol Type : Half duplex Asynchronous Serial Communication (8bit,1stop,No Parity)
-Link (Physical) : TTL Level Multi Drop (daisy chain type Connector)
+>Command Signal : Digital Packet  
+>Protocol Type : Half duplex Asynchronous Serial Communication (8bit,1stop,No Parity)  
+>Link (Physical) : TTL Level Multi Drop (daisy chain type Connector)
 
 More at link [http://support.robotis.com/en/product/dynamixel/ax_series/ax-18f.htm](http://support.robotis.com/en/product/dynamixel/ax_series/ax-18f.htm)
 
